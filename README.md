@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Android Developer From India</h3>
 
 
-*An enthusiastic Programmer | Android Developer | Open Source lover*
+*An Enthusiastic Programmer | Android Developer | Open Source lover*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishmoral11&label=Profile%20views&color=0e75b6&style=flat" alt="tanishmoral11" /> </p>
 

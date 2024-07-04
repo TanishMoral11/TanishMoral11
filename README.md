@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tanish Moral</h1>
 <h3 align="center">A Passionate Android Developer From India</h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+*An enthusiastic Programmer | Android Developer | Web Developer | Freelancer | Open Source lover*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishmoral11&label=Profile%20views&color=0e75b6&style=flat" alt="tanishmoral11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishmoral11" alt="tanishmoral11" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on [Cono](https://github.com/TanishMoral11/Cono)
-
 - 🌱 I’m currently learning **Kotlin**
-
 - 💬 Ask me about **Android, Jetpack Compose**
-
 - 📫 How to reach me **realtanishmoral@gmail.com**
-
 - ⚡ Fun fact **I Don't Drink Coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
@@ -93,5 +94,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishmoral11&show_icons=true&locale=en" alt="tanishmoral11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishmoral11&" alt="tanishmoral11" /></p>
-
-<p align="center"><img src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="programmer gif" /></p>

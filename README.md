@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Cono](https://github.com/TanishMoral11/Cono)
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning [Kotlin]([https://github.com/TanishMoral11/Cono](https://kotlinlang.org/))
 - 💬 Ask me about **Android, Jetpack Compose**
 - 📫 How to reach me **realtanishmoral@gmail.com**
 - ⚡ Fun fact **I Don't Drink Coffee ☕**

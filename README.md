@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tanish Moral</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tanish Moral</h1>
 <h3 align="center">A Passionate Android Developer From India</h3>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-*An enthusiastic Programmer | Android Developer | Web Developer | Freelancer | Open Source lover*
+
+*An enthusiastic Programmer | Android Developer | Open Source lover*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishmoral11&label=Profile%20views&color=0e75b6&style=flat" alt="tanishmoral11" /> </p>
 

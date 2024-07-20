@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [Cono](https://github.com/TanishMoral11/Cono)
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
 - 💬 Ask me about **Android, Jetpack Compose**
-- 📫 How to reach me **realtanishmoral@gmail.com**
+- 📫 How to reach me **tanishmoral07@gmail.com**
 - ⚡ Fun fact **I Don't Drink Coffee ☕**
 
 <h3 align="left">Connect with me:</h3>

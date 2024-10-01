@@ -5,8 +5,8 @@
 An Enthusiastic Programmer | Android Developer | Open Source lover
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishmoral11&label=Profile%20views&color=0e75b6&style=flat" alt="tanishmoral11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishmoral11" alt="tanishmoral11" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TanishMoral11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -15,6 +15,9 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 - 💬 Ask me about *Android, Jetpack Compose*
 - 📫 How to reach me *tanishmoral07@gmail.com*
 - ⚡ Fun fact *I Don't Drink Coffee ☕*
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -89,8 +92,10 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishmoral11&show_icons=true&locale=en&layout=compact" alt="tanishmoral11" /></p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TanishMoral11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TanishMoral11&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishMoral11&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishmoral11&show_icons=true&locale=en" alt="tanishmoral11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishmoral11&" alt="tanishmoral11" /></p>

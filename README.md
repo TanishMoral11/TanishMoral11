@@ -10,8 +10,8 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 <br/>
 
 <p align="center"><a href="https://komarev.com/ghpvc/?username=tanishmoral11&label=Profile%20views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=KarthikS373">            
-</a><img src="https://img.shields.io/github/followers/KarthikS373?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://komarev.com/ghpvc/?username=tanishmoral11">            
+</a><img src="https://img.shields.io/github/followers/tanishmoral11?label=Followers&style=social" alt="GitHub Badge">
 </p>
 <br>
 <br>

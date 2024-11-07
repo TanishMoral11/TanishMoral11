@@ -92,5 +92,16 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishmoral11&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanishmoral11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishmoral11&show_icons=true&locale=en&theme=radical" alt="tanishmoral11" /></p>
+<h1 align="center">🔥 Streaks </h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishmoral11&theme=radical" alt="tanishmoral11" /></p>
+
+<h1 align="center"> 🤝 Support</h1>
+<p align="center">
+Contributions, issues, and feature requests are most welcome!
+<br>
+If you like my projects, Give them ⭐ and Share it with friends!
+<br>
+Made with ❤️ 
+</p>
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(35em)">

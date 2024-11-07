@@ -16,8 +16,6 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishmoral11&label=Profile%20views&color=0e75b6&style=flat" alt="tanishmoral11" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishmoral11&theme=radical" alt="tanishmoral11" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">

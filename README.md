@@ -88,6 +88,7 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
+<h1 align="center">🔥 GitHub Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishmoral11&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanishmoral11" /></p>
 

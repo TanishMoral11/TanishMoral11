@@ -118,4 +118,9 @@ If you like my projects, Give them ⭐ and Share it with friends!
 <br>
 Made with ❤ 
 </p>
+
+<p align="center">
+<a href="https://buymeacoffee.com/tanishmoral
+" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(35em)">

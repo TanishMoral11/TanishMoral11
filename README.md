@@ -4,6 +4,18 @@
 
 An Enthusiastic Programmer | Android Developer | Open Source lover
 
+
+<h1 align="center"> ❤ Views and Followers </h1>
+
+<br/>
+
+<p align="center"><a href="https://komarev.com/ghpvc/?username=tanishmoral11&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=KarthikS373">            
+</a><img src="https://img.shields.io/github/followers/KarthikS373?label=Followers&style=social" alt="GitHub Badge">
+</p>
+<br>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishmoral11&label=Profile%20views&color=0e75b6&style=flat" alt="tanishmoral11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishmoral11&theme=radical" alt="tanishmoral11" /></a> </p>
@@ -88,6 +100,7 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
+<br/>
 <h1 align="center">📊 GitHub Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishmoral11&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanishmoral11" /></p>

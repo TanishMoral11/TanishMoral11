@@ -110,10 +110,6 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishmoral11&theme=radical" alt="tanishmoral11" />
 </div>
 
-<summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/tanishmoral11">
-   <img height="155em" src="https://raw.githubusercontent.com/tanishmoral11/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Tanish Moral github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/tanishmoral11/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Tanish Moral github stats" />
 <br>
 
 <h1 align="center"> 🤝 Support</h1>

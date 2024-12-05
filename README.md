@@ -109,6 +109,10 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishmoral11&theme=radical" alt="tanishmoral11" />
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishmoral11&radius=16&theme=github-compact&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 <br>
 

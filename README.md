@@ -114,6 +114,13 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishmoral11&radius=16&theme=github-compact&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+<br>
+<div align="center">
+    
+  ![snake gif](https://github.com/TanishMoral11/TanishMoral11/blob/output/github-snake-dark.svg)
+</div>
+
+
 
 <br>
 

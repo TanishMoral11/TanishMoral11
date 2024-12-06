@@ -119,11 +119,6 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
     
   ![snake gif](https://github.com/TanishMoral11/TanishMoral11/blob/output/github-snake-dark.svg)
 </div>
-
-
-
-<br>
-
 <h1 align="center"> 🤝 Support</h1>
 <p align="center">
 Contributions, issues, and feature requests are most welcome!

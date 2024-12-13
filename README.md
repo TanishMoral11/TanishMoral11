@@ -1,36 +1,33 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tanish Moral</h1>
 <h3 align="center">A Passionate Android Developer From India</h3>
 
-
 An Enthusiastic Programmer | Android Developer | Open Source lover
-
 
 <h1 align="center"> ❤ Views and Followers </h1>
 
 <br/>
 
-<p align="center"><a href="https://komarev.com/ghpvc/?username=tanishmoral11&label=Profile%20views&color=0e75b6&style=flat">
+<p align="center"><a href="https://komarev.com/ghpvc/?username=tanishmoral11&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=tanishmoral11">            
-</a><img src="https://img.shields.io/github/followers/tanishmoral11?label=Followers&style=social" alt="GitHub Badge">
-</p>
+</a><img src="https://img.shields.io/github/followers/tanishmoral11?label=Followers&style=social" alt="GitHub Badge"></p>
 <br>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishmoral11&theme=radical" alt="tanishmoral11" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=tanishmoral11&theme=radical" alt="tanishmoral11" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 
-- 🔭 I’m currently working on [Cono](https://github.com/TanishMoral11/Cono)
-- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
+- 🔭 I’m currently working on [Cono](https://github.com/TanishMoral11/Cono) (target="_blank")
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) (target="_blank")
 - 💬 Ask me about Android, Jetpack Compose
 - 📫 How to reach me tanishmoral07@gmail.com
 - ⚡ Fun fact I Don't Drink Coffee ☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanishmoral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishmoral" height="30" width="40" /></a>
-<a href="https://instagram.com/tanish_moral_gurjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanish_moral_gurjar" height="30" width="40" /></a>
-<a href="https://x.com/moral_tanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moral_tanish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanishmoral" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishmoral" height="30" width="40" /></a>
+<a href="https://instagram.com/tanish_moral_gurjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanish_moral_gurjar" height="30" width="40" /></a>
+<a href="https://x.com/moral_tanish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moral_tanish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -130,7 +127,6 @@ Made with ❤
 </p>
 
 <p align="center">
-<a href="https://buymeacoffee.com/tanishmoral
-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://buymeacoffee.com/tanishmoral" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(35em)">

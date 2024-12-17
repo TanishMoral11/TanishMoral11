@@ -17,8 +17,8 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 
-- 🔭 I’m currently working on [Cono](https://github.com/TanishMoral11/Cono) (target="_blank")
-- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) (target="_blank")
+- 🔭 I’m currently working on [Cono](https://github.com/TanishMoral11/Cono)
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
 - 💬 Ask me about Android, Jetpack Compose
 - 📫 How to reach me tanishmoral07@gmail.com
 - ⚡ Fun fact I Don't Drink Coffee ☕

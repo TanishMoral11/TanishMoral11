@@ -17,7 +17,7 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 
-- 🔭 I’m currently working on [Cono](https://github.com/TanishMoral11/Cono)
+- 🔭 I’m currently working on [Oppia Android](https://github.com/oppia/oppia-android)
 - 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/compose)
 - 💬 Ask me about Android, Kotlin
 - 📫 How to reach me tanishmoral07@gmail.com

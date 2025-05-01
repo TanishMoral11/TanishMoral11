@@ -43,6 +43,8 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 <a href="https://linkedin.com/in/tanishmoral" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishmoral" height="30" width="40" /></a>
 <a href="https://instagram.com/tanish_moral_gurjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanish_moral_gurjar" height="30" width="40" /></a>
 <a href="https://x.com/moral_tanish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moral_tanish" height="30" width="40" /></a>
+<a href="https://discord.gg/57DDP5aR" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+
 </p>
 
 ---

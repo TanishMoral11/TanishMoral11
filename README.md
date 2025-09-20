@@ -32,12 +32,12 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 ---
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 
-- 🌐 <b>Check out my Portfolio:</b> [Tanish Moral Portfolio](https://tanishmoral11.vercel.app) – My projects and experience at a glance! 🚀
+- 🌐 <b>Check out my </b> <a href="https://tanishmoral11.vercel.app" target="_blank">Portfolio</a> – My projects and experience at a glance! 🚀
 - 🔭 I’m currently working on [Oppia Android](https://github.com/oppia/oppia-android)
 - 🌱 <b>Leveling Up:</b> Mastering <a href="https://developer.android.com/compose">Jetpack Compose</a> - Modern UI magic! 🎨  
 - 💬 <b>Let’s Talk:</b> Android, Kotlin, or anything code-related!  
 - 📫 <b>Ping Me:</b> <a href="mailto:tanishmoral07@gmail.com">tanishmoral07@gmail.com</a>  
-- ⚡ <b>Fun Fact:</b> I code without coffee—powered by passion instead! ☕❌  
+- ⚡ <b>Fun Fact:</b> I code without coffee—powered by passion instead! ☕❌
 
 
 

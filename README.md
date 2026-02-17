@@ -32,12 +32,14 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 ---
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 
+## 🚀 About Me
+
+- 🎓 B.Tech CS student at [IIIT Lucknow](https://iiitl.ac.in/)
 - 🌐 <b>Check out my </b> <a href="https://tanishmoral11.vercel.app" target="_blank">Portfolio</a> – My projects and experience at a glance! 🚀
-- 🔭 I’m currently working on [Oppia Android](https://github.com/oppia/oppia-android)
 - 🌱 <b>Leveling Up:</b> Mastering <a href="https://developer.android.com/compose">Jetpack Compose</a> - Modern UI magic! 🎨  
-- 💬 <b>Let’s Talk:</b> Android, Kotlin, or anything code-related!  
+- 💬 <b>Let’s Talk:</b> Android, Backend Development, or anything code-related!  
 - 📫 <b>Ping Me:</b> <a href="mailto:tanishmoral07@gmail.com">tanishmoral07@gmail.com</a>  
-- ⚡ <b>Fun Fact:</b> I code without coffee—powered by passion instead! ☕❌
+- ⚡ <b>Fun Fact:</b> I code without coffee, powered by passion instead! ☕❌
 
 
 
@@ -46,38 +48,68 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 <a href="https://linkedin.com/in/tanishmoral" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishmoral" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tanishmoral11/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanishmoral11" height="30" width="40" /></a>
 <a href="https://x.com/moral_tanish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moral_tanish" height="30" width="40" /></a>
-<a href="https://discord.gg/57DDP5aR" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 
 </p>
 
 ---
 
-<h3 align="left">🧰 My Tech Toolbox</h3>
+<h3 align="left">🧰 Tech Stack</h3>
+
 <p align="left">
-  <b>Mobile Dev:</b><br>
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a><br>
-  <b>Web Dev:</b><br>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><br>
-  <b>Backend & Cloud:</b><br>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BaaS/firebase.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/aws.svg" alt="aws" width="40" height="40"/></a><br>
-  <b>Languages:</b><br>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a><br>
-  <b>Tools:</b><br>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+
+<!-- LANGUAGES -->
+<b>Languages</b><br>
+<a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
+<a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
+<a href="https://isocpp.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+<a href="https://www.w3schools.com/sql/"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40"/></a>
+
+<br>
+
+<!-- MOBILE -->
+<b>Mobile Development</b><br>
+<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/></a>
+<a href="https://developer.android.com/jetpack/compose"><img src="https://developer.android.com/static/images/jetpack/compose-tutorial/compose-logo.svg" width="40"/></a>
+<a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/></a>
+<a href="https://square.github.io/retrofit/"><img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" width="40"/></a>
+
+<br>
+
+<!-- FRONTEND -->
+<b>Frontend</b><br>
+<a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
+<a href="https://nextjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></a>
+<a href="https://tailwindcss.com"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+<a href="https://mui.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40"/></a>
+
+<br>
+
+<!-- BACKEND -->
+<b>Backend</b><br>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
+<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></a>
+<a href="https://firebase.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/></a>
+
+<br>
+
+<!-- DATABASE -->
+<b>Databases</b><br>
+<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
+<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
+
+<br>
+
+<!-- TOOLS -->
+<b>Tools</b><br>
+<a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<a href="https://figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
+<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
+
 </p>
 
 ---

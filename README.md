@@ -19,7 +19,7 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 
 <h3 align="center">🏆 My GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishmoral11&theme=radical&no-frame=true&margin-w=15" alt="Trophies">
+  <img src="https://github-trophies.vercel.app/?username=tanishmoral11&theme=radical&no-frame=true&margin-w=15" alt="Trophies">
 </p>
 
 <h3 align="center">🛠️ Skills Badges</h3>
@@ -114,11 +114,15 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 
 ---
 <br/>
+
 <h1 align="center">📊 GitHub Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishmoral11&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanishmoral11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishmoral11&show_icons=true&locale=en&theme=radical" alt="tanishmoral11" /></p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=tanishmoral11&show_icons=true&theme=radical&hide_border=true"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanishmoral11&layout=compact&theme=radical&hide_border=true&hide=move"/>
+</p>
+<br/>
 <h1 align="center">🔥 Streaks </h1>
 
 <div align="center">

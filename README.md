@@ -72,7 +72,7 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 <!-- MOBILE -->
 <b>Mobile Development</b><br>
 <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/></a>
-<a href="https://developer.android.com/jetpack/compose"><img src="https://developer.android.com/static/images/jetpack/compose-tutorial/compose-logo.svg" width="40"/></a>
+<a href="https://developer.android.com/jetpack/compose"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40"/></a>
 <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/></a>
 <a href="https://square.github.io/retrofit/"><img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" width="40"/></a>
 

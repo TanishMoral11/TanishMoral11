@@ -34,7 +34,7 @@ An Enthusiastic Programmer | Android Developer | Open Source lover
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CS student at [IIIT Lucknow](https://iiitl.ac.in/)
+- 🎓 B.Tech Final CS student at [IIIT Lucknow](https://iiitl.ac.in/)
 - 🌐 <b>Check out my </b> <a href="https://tanishmoral11.vercel.app" target="_blank">Portfolio</a> – My projects and experience at a glance! 🚀
 - 🌱 <b>Leveling Up:</b> Mastering <a href="https://developer.android.com/compose">Jetpack Compose</a> - Modern UI magic! 🎨  
 - 💬 <b>Let’s Talk:</b> Android, Backend Development, or anything code-related!  
